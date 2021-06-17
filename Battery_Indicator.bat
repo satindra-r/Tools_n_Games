@@ -1,0 +1,1 @@
+start javaw -jar "Battery_Indicator.jar"

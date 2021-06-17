@@ -1,0 +1,1 @@
+@start javaw -jar "Lock_The_Prison.jar"
